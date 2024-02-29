@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<p align="left">My name is Webster, I am a Web Developer based in Nicaragua.</p>
+<p align="left">My name is Webster, I am a Web Developer.</p>
 
 <h4 align="left">Skills:</h4>
 <p align="left">
