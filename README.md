@@ -3,4 +3,6 @@
 <p align="left">My name is Webster, I am a Web Developer.</p>
 
 Skills:
-[![My Skills](https://skillicons.dev/icons?i=react,js,astro,html,css,tailwind)](https://skillicons.dev)
+</br>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,astro,tailwind&perline=3)](https://skillicons.dev)
+
